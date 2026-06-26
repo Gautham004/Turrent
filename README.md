@@ -206,7 +206,7 @@ ESP32 BLE scan → MAC in whitelist? → FRIEND signal → suppress fire
 ## Environment
 
 ```
-OS:      Ubuntu 24.04 LTS (Intel NUC — dronedome)
+OS:      Ubuntu 24.04 LTS
 Python:  3.12
 Libs:    opencv-python, ultralytics, numpy, scipy, filterpy, pyserial, matplotlib
 Arduino: 1.8.x / Arduino IDE 2.x
