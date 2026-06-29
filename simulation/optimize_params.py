@@ -37,12 +37,12 @@ SEARCH_SPACE = {
     "KD":     (0.1,  2.0),
 }
 
-N_TRIALS        = 5000
-N_STEPS         = 800
+N_TRIALS        = 2000
+N_STEPS         = 500
 DT              = 0.05
 TOP_K           = 10
 TRAJ_SEED       = 42
-N_TRAJECTORIES  = 25
+N_TRAJECTORIES  = 20
 
 ARENA_SIZE       = 10.0
 TARGET_SPEED     = 2.5
